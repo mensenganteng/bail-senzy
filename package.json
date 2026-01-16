@@ -1,5 +1,5 @@
 {
-    "name": "kayzennotdev/bail",
+    "name": "senzy/bail",
     "version": "1.7.3",
     "description": "Have A Nice Day",
     "keywords": [
@@ -10,7 +10,7 @@
         "url": "https://github.com/kayzennotdev/bail"
     },
     "license": "MIT",
-    "author": "kayzennotdev",
+    "author": "senzy",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
